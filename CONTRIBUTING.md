@@ -217,7 +217,7 @@ If found, it will revert the article text back to the generic stub text (and era
 
 This is intended behavior, since it allows us to update all stubs if the template stub changed for any reason.
 
-### Getting Help
+### Getting Help.
 
 There's a community of support from a whole team of contributors, whom you can bounce ideas off of and ask for input on your writing.
 
